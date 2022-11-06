@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="H5P_Author">
+    <organization identifier="H5P_Author">
+      <title>Using the MAC VU360 EKG Machine</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>Using the MAC VU360 EKG Machine</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/image-0YGUmk2l.png"/>
+      <file href="images/image-0iaxaiRI.png"/>
+      <file href="images/image-5ikgVCmk.png"/>
+      <file href="images/image-7P9GvOLl.png"/>
+      <file href="images/image-9c0FkvsT.png"/>
+      <file href="images/image-CjLrDTLk.png"/>
+      <file href="images/image-G2W16INC.png"/>
+      <file href="images/image-GUhIhO32.png"/>
+      <file href="images/image-IY410w74.png"/>
+      <file href="images/image-IwvbItaw.png"/>
+      <file href="images/image-NJ47Nc3b.png"/>
+      <file href="images/image-NKgMmBbp.png"/>
+      <file href="images/image-Xcd27WYm.png"/>
+      <file href="images/image-cWkNT7Br.png"/>
+      <file href="images/image-e6c7DIVy.png"/>
+      <file href="images/image-ld9X2rAp.png"/>
+      <file href="images/image-mBvoIFCT.png"/>
+      <file href="images/image-oI91xGTF.png"/>
+      <file href="images/image-uWBi3jIl.png"/>
+      <file href="images/image-xE5HSb71.png"/>
+      <file href="index.html"/>
+    </resource>
+  </resources>
+</manifest>
